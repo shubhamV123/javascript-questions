@@ -31,7 +31,8 @@ Feel free to reach out to me! 😊 <br />
 * [Русский](../ru-RU/README.md)
 * [Українська мова](../ua-UA/README-ua_UA.md)  
 * [Tiếng Việt](../vi-VI/README-vi.md)
-* [中文版本](../zh-CN/README-zh_CN.md)
+* [简体中文](../zh-CN/README-zh_CN.md)
+* [繁體中文](../zh-TW/README-zh_TW.md)
 * [Türkçe](../tr-TR/README-tr_TR.md)
 * [ไทย](../th-TH/README-th_TH.md)
 * [Indonesia](../id-ID/README.md)
@@ -3005,7 +3006,7 @@ The above example works. This returns the array `[ 'banana', 'apple', 'orange', 
 function nums(a, b) {
   if (a > b) console.log('a is bigger');
   else console.log('b is bigger');
-  return;
+  return
   a + b;
 }
 
